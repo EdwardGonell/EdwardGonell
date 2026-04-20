@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as a WRO FE Coach.<br>- 📚 I'm currently in my first year for an Electrical Engineer BA.<br>- ⚡ In my free time I thinker with micro-controllers.</p>
+<p align="left">I'm a semi-nerd from Cayey, Puerto Rico <br><br>- 🔭 I coach robotics teams as a hobby.<br>- 📚 I'm currently in my second year for an Electrical Engineer BA.<br>- ⚡ In my free time I thinker with micro-controllers.</p>
 
 ###
 
