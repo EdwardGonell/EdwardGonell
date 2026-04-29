@@ -1,16 +1,9 @@
 <div align="center">
-  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2U4enk5OXQwOGJzN3Z0Mjc1MmFqenpidDgyYzNucjY2NzViMTU1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zXmbOaTpbY6mA/giphy.gif"  />
-</div>
-
-###
-
-<div align="center">
   <a href="https://www.youtube.com/@EdwardGonell" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
 </div>
 
-###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=EdwardGonell.EdwardGonell&"  />
@@ -20,45 +13,54 @@
 
 <h1 align="center">Going places and learning a bunch</h1>
 
-###
+<p align="center">
+  <img width="480" height="360" alt="picture" src="https://github.com/user-attachments/assets/0385c70c-1e14-451d-8572-a5345d6bc46d" />
+</p>
 
-<h3 align="left">👩‍💻  About Me</h3>
+I'm an electrical engineering student seeking a bachelor's, a robotics coach, and a regular worker.
 
-###
+Graduated from the Industrial Electronics workshop at 17 in 2017 from what I would call the best vocational high school in Puerto Rico, [Escuela Superior Vocacional Benjamin Harrison](https://es.wikipedia.org/wiki/Escuela_Benjam%C3%ADn_Harrison). 
+This school is renowned for achieving many victories in most of the competitions it participates in, ranging from sports, science fairs, and club competitions to now robotics.
+Here is where I currently volunteer as a WRO coach, where I've guided over 10 students participating in the Future Engineers category and many others that don't form part of my Future Engineers teams.
+As of now I'm currently coaching 3 teams, totaling 7 active students, where we hope to achieve our first victory in the category. 
 
-<p align="left">I'm a semi-nerd from Cayey, Puerto Rico <br><br>- 🔭 I coach robotics teams as a hobby.<br>- 📚 I'm currently in my second year for an Electrical Engineer BA.<br>- ⚡ In my free time I thinker with micro-controllers.</p>
+In 2018 I went on to get an associate degree in filmmaking at Colegio de Cinematografía, Artes y Televisión, where I went to do what I loved at the moment. 
+Those two years were fun, filled with creativity, and shaped my current teamwork skills, something I lacked back then.
+After graduating I've barely put the filmmaking skills to use; however, the teamwork and leadership skills have proved to be crucial for who I've become.
 
-###
+Currently I'm studying at Universidad Ana G. Mendez, seeking a bachelor's degree in electrical engineering. 
+Started studying here in 2024, driven by the frustration that even though I had the knowledge and some experience to perform the tasks of a role I desired, I was not eligible due to the lack of a degree, so it began.
+These 2 years have been tough due to conflicting hours with my other responsibilities, but I'm pushing through to achieve that desired degree.
+There are some other major life projects in the oven, so stay tuned.
 
-<h3 align="left">🛠 Language and tools</h3>
+# Future Engineers Teams
+## 2024
+- [Team-Eusurio-WRO-FE](https://github.com/equipo-esurio/Team-Eusurio-WRO-FE)
+- [E⁴Force](https://github.com/E4Force/E4-Force-Team)
+## 2025
+- [E⁴Force](https://github.com/E4Force/E4Force-2025)
+## 2026
+- [EatChiwi]()
+- [Conagher-Racing]()
+- [Krabby-No-Patty]()
 
-###
-
+# Programming Languages and Tools
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+  <img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"  /> 
+  <img width="8"  />
+  <img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"  />
+  <img width="8"  />
+  <img width="64" height="64" src="https://github.com/thonny/thonny/blob/master/packaging/icons/thonny-128x128.png?raw=true"  />
+  <img width="8"  />
+  <img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscodium/vscodium-original.svg"  />
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=EdwardGonell&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+# Filmmaking Tools
+<div align="left">
+  <img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg"  />
+  <img width="8"  />
+  <img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg"  />
+  <img width="8"  />
+  <img width="64" height="64" src="https://extremraym.com/cloud/resolve-scripting-doc/DaVinci_Resolve_Studio.png"  />
+  <img width="8"  />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EdwardGonell&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EdwardGonell&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
