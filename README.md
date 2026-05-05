@@ -40,9 +40,9 @@ There are some other major life projects in the oven, so stay tuned.
 ## 2025
 - [E⁴Force](https://github.com/E4Force/E4Force-2025)
 ## 2026
-- [EatChiwi]()
-- [Conagher-Racing]()
-- [Krabby-No-Patty]()
+- [EatChiwi](https://github.com/Dde567/WRO_EATCHIWI_PR_2026) 🎇 PRNRO 2026 Champions 🎇
+- [Conagher-Racing](https://github.com/Lucksly/Team-Conagher-Racing-WRO2026-FUTURE-ENGINEERS)
+- [Krabby-No-Patty](https://github.com/Krabby-no-patty/WRO-Future-Engineers-2026)
 
 # Programming Languages and Tools
 <div align="left">
