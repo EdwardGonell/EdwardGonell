@@ -4,10 +4,20 @@
   </a>
 </div>
 
+<div align="center">
+  <a href="https://www.paypal.com/donate/?hosted_button_id=8WRAYS32YNC5N">
+    <img height="25" alt="rect6" src="https://github.com/user-attachments/assets/1f4d4809-8e1c-4124-9566-fe06413043dc" />
+
+  </a>
+</div>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=EdwardGonell.EdwardGonell&"  />
 </div>
+
+
+
+
 
 ###
 
